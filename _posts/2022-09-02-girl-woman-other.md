@@ -1,6 +1,6 @@
 ---
 published: true
-tags: book
+tags: Book
 ---
 
 # Girl, Woman, Other - Bernardine Evaristo
