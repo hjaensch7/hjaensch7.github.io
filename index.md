@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+My aim is for this blog to be a tool to track books I've read and what I thought about them.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Might be nice to write about music as well.
