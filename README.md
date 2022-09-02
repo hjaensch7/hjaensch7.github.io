@@ -1,7 +1,7 @@
 # hjaensch7.github.io
-blog
 
-
-links I'm using for this blog
+resources:
 - https://chadbaldwin.net/
+- https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html
 - https://github.com/pages-themes/merlot
+- https://github.com/pages-themes/tactile
