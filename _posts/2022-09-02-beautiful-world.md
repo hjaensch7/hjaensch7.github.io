@@ -1,6 +1,6 @@
 ---
 published: false
-tags: Book 
+tags: Book Rooney
 ---
 
 # Beautiful World Where are you - Sally Rooney
