@@ -10,5 +10,9 @@ appears he is merely sharing a memory, perhaps presenting some research he's don
 related then almost imperceptibly he switches into what can only be referred to as verse. Abduraqib
 is a poet first, I'm looking forward to reading the rest of this.
 
+11/28 - This book is devastating. It can at times be difficult to read, very powerful emotions are
+summoned. This is the second book I have read by Abduraqib I think I will now read anything with his
+name on it.
+
 
 
